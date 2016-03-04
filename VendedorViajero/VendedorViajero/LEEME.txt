@@ -1,0 +1,7 @@
+PASOS PARA PASOS PARA UTILIZAR EL PROGRAMA
+
+1) Se ejecuta el programa.
+2) Aparece un cuadro de dialogo para ingresar el número de ciudades (mínimo 5).
+3) Se da click en el botón OK o se unde la tecla ENTER.
+4) Despues de un tiempo variable, se mostrara en pantalla los resultados obtenidos
+   y se pintara en un canvas la solucion encontrada (el camino).
